@@ -1,0 +1,22 @@
+# Bỏ qua tất cả các file
+*
+
+# Giữ lại thư mục extensions và tất cả các file bên trong nó
+!extensions/
+!extensions/*
+
+# Giữ lại các file cụ thể
+!index.py
+!googl.py
+!w_metamask.py
+!w_bitget.py
+!browser_automation.py
+!utils.py
+!README.md
+!config_example.txt
+!requirements.txt
+!*.png
+!*.jpg
+!run_menu.bat
+!run_hidden.vbs
+!.gitignore
